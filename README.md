@@ -15,7 +15,7 @@
 
 <!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
 
-![mi perfil](https://github.com/elmergustavo/elmergustavo/blob/master/LinkedIn%20Diagram.jpg)
+<code><img height="250" src="./imagenes/Captura.PNG" alt="Francisco"/></code>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco | 👨‍💻 Electronic Engineer | Colombia</p>
 
