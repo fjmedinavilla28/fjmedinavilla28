@@ -22,10 +22,8 @@
 
 <br />
 
-<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./imagenes/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-<!-- 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />  -->
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
@@ -37,7 +35,8 @@
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-<code><img height="50" src="https://github.com/elmergustavo/elmergustavo/blob/master/assets/python.svg" alt="Python"/></code>
+<code><img height="50" src="./imagenes/R.jpg" alt="R"/></code>
+<code><img height="50" src="./imagenes/python (1).svg" alt="Python"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/></code>
 
